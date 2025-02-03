@@ -1,0 +1,2 @@
+1 rem: é uma medida mais maleavel, nao é fixa como 1 px. Se a fonte do celular do usuário for menor, a fonte da pokedex também vai ser menor. E vice-versa.
+
